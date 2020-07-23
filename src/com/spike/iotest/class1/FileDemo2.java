@@ -11,7 +11,8 @@ import java.io.File;
 public class FileDemo2 {
     public static void main(String[] args) {
 
-        File file = new File("/Users/kevinz/workspace/java/JavaLearning");
+//        File file = new File("/Users/kevinz/workspace/java/JavaLearning");
+        File file =  new File("F://workspace/java/JavaLearning");
 
         readPath(file);
 
