@@ -1,6 +1,4 @@
-package com.spike.class1;
-
-import com.sun.source.util.Trees;
+package com.spike.myCollections.class1;
 
 import java.util.ArrayList;
 import java.util.Collections;
